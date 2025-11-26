@@ -1,0 +1,5 @@
+- Name: 1UpHelper
+  Version: 1.0.0
+  Dependencies:
+  - Name: Everest
+    Version: 1.5986.0
