@@ -1,5 +1,5 @@
 - Name: _1UpHelper
-  Version: 0.1.0
+  Version: 1.0.0
   DLL: bin/_1UpHelper.dll
   Dependencies:
     - Name: EverestCore
